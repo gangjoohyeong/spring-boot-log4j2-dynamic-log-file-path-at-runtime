@@ -4,7 +4,7 @@
 
 1. Updates the log file path and log level dynamically at runtime via an API.
 2. Uses Log4j 2 instead of the default Logback in Spring Boot.
-3. If the logging configuration file does not exist in the specified path, it will generate a default log configuration file.
+3. If the logging configuration file doesn't exist at the specified path, a default logging configuration file will be generated.
 
 ## API
 
